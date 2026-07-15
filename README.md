@@ -10,7 +10,7 @@ The dashboard provides business insights that help decision-makers monitor reven
 
 ## 📊 Dashboard Preview
 
-![Nike Dashboard](Nike_Dashboard.png)
+![Nike Dashboard](Nike_Dashboard.png.png)
 
 ---
 
